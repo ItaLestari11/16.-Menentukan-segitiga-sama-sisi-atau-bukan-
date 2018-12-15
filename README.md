@@ -1,0 +1,1 @@
+# 16.-Menentukan-segitiga-sama-sisi-atau-bukan-
